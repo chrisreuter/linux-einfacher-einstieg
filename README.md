@@ -5,7 +5,7 @@
 3. Suchst du Alternativen zur Microsoft- oder Apple-Computer-Welt
 4. Oder möchtest du ganz neu und günstig in die Welt der Computer einsteigen?
 
-Beantwortest du mindestens drei der obigen Fragen mit Ja, dann dürfte es sich für dich lohnen, das vorliegende Buch zu lesen.
+Beantwortest du mindestens drei der vier Fragen mit Ja, dann dürfte es sich für dich lohnen, das vorliegende Buch zu lesen.
 
 ## Warum "du"?
 
