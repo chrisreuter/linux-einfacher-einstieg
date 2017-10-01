@@ -1,11 +1,11 @@
 # Einführung
 
-1. Hast du bereits erste Erfahrung mit Computern?
+1. Hast du bereits erste Erfahrung mit Computern gesammelt?
 2. Bist du schon einmal mit einem Computer auf Internet gesurft oder hast eine E-Mail oder einen Text verfasst?
-3. Suchst du Alternativen zur Microsoft- oder Apple-Computer-Welt?
+3. Suchst du Alternativen zur Microsoft- oder Apple-Computer-Welt
 4. Oder möchtest du ganz neu und günstig in die Welt der Computer einsteigen?
 
-Wenn du diese vier Fragen mit Ja beantwortest, dürfte es sich für dich lohnen, das vorliegende Buch zu lesen.
+Wenn du mindestens drei von vier Fragen mit Ja beantwortest, dürfte es sich für dich lohnen, das vorliegende Buch zu lesen.
 
 ## Warum "du"?
 
