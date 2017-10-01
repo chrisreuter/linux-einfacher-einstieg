@@ -1,4 +1,4 @@
-# Kapitel 1
+# 1. Linux - ein Betriebssystem
 
 In diesem Kapitel werden wir kurz erklären,
 
