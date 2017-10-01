@@ -1,4 +1,4 @@
-# Was ist Linux?
+# 1.2. Was ist Linux?
 
 
 
