@@ -1,3 +1,11 @@
-# First Chapter
+# Kapitel 1
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+In diesem Kapitel werden wir kurz erklären,
+
+* was ein Betriebssystem ist,
+* was Linux ist,
+* was die wichtigsten Unterschiede zwischen Linux und den Betriebssystemen von Microsoft und Apple sind und
+* warum es lohnenswert ist, sich mit Linux zu beschäftigen.
+
+
+
