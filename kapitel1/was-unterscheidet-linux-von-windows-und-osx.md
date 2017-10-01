@@ -1,4 +1,4 @@
-# Was unterscheidet Linux von anderen Betriebssystemen
+# 1.3. Was unterscheidet Linux von anderen Betriebssystemen
 
 
 
