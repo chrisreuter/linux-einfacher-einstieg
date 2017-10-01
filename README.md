@@ -1,9 +1,9 @@
 # Einführung
 
-1. Hast du bereits erste Erfahrung mit Computern gesammelt?
-2. Bist du schon einmal mit einem Computer auf Internet gesurft oder hast eine E-Mail oder einen Text verfasst?
-3. Suchst du Alternativen zur Microsoft- oder Apple-Computer-Welt
-4. Oder möchtest du ganz neu und günstig in die Welt der Computer einsteigen?
+1. Hast du bereits erste Erfahrung auf einem Windows- oder Apple-Computer gesammelt?
+2. Suchst du Alternativen zur Microsoft- oder Apple-Computer-Welt?
+3. Möchtest du neu und günstig in die Welt der Computer einsteigen?
+4. Oder einfach nur deinen Horizont um freie bzw. offene Software erweitern?
 
 Beantwortest du mindestens drei der vier Fragen mit Ja, dann dürfte dich das vorliegende Buch interessieren.
 
