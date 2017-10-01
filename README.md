@@ -2,8 +2,8 @@
 
 1. Hast du bereits erste Erfahrung mit Computern?
 2. Bist du schon einmal mit einem Computer auf Internet gesurft oder hast eine E-Mail oder einen Text verfasst?
-3. War das auf einem Computer mit Windows oder auf einem Apple-Computer?
-4. Möchtest du neu oder anders in die Welt der Computer einsteigen?
+3. Suchst du Alternativen zur Microsoft- oder Apple-Computer-Welt?
+4. Oder möchtest du ganz neu und günstig in die Welt der Computer einsteigen?
 
 Wenn du diese vier Fragen mit Ja beantwortest, dürfte es sich für dich lohnen, das vorliegende Buch zu lesen.
 
