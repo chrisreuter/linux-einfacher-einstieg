@@ -1,6 +1,6 @@
 # 1.1. Was ist ein Betriebssystem?
 
-Einfach gesagt ist ein Betriebssystem das Programm, was einen Computer erst nutzbar macht. Es ist gewissermaßen das Haupt-Programm, das alle anderen Daten und Prozesse auf dem Computer kontrolliert. Ohne Betriebssystem kann also ein Computer nicht laufen.
+Einfach gesagt ist ein Betriebssystem das Programm, was einen Computer erst nutzbar macht. Es ist gewissermaßen das Haupt-Programm, das alle anderen Daten und Prozesse auf dem Computer kontrolliert. Ohne Betriebssystem kann ein Computer nicht laufen.
 
 ## Die bekanntesten Betriebssysteme
 
