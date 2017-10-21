@@ -7,6 +7,7 @@
 | Nutzungsrechte |  |  |  |
 | Hardware-Anforderungen |  |  |  |
 | Anmerkungen | \(\*\) Windows 10 Home, Sonderpreis für Studenten und Lehrer |  |  |
+|  |  |  |  |
 
 
 
