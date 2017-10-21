@@ -3,7 +3,7 @@
 |  | Windows | OSX | Linux |
 | :--- | :--- | :--- | :--- |
 | Anbieter | Microsoft | Apple | verschiedene |
-| Preis |  |  |  |
+| Einzel-Preis | ab 130€ \(Windows 10 Home, Sonderpreis für Studenten und Lehrer\) |  |  |
 | Nutzungsrechte |  |  |  |
 | Hardware-Anforderungen |  |  |  |
 
