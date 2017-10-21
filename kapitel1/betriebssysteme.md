@@ -7,7 +7,7 @@ Einfach gesagt ist ein Betriebssystem das Programm, was einen Computer erst nutz
 Die bekanntesten Betriebssysteme sind:
 
 1. Windows von Microsoft \(aktuelle Version "Windows 10"\) und
-2. OS X von Apple. 
+2. OS X und macOS von Apple. 
 
 In der breiten Masse viel weniger bekannt ist das Betriebssystem Linux, auf das wir im folgenden Abschnitt näher eingehen werden.
 
