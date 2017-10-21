@@ -1,4 +1,4 @@
-# 1. Linux - ein etwas anderes Betriebssystem
+# 1. Linux - noch ein Betriebssystem!?
 
 In diesem Kapitel werden wir kurz erklären,
 
