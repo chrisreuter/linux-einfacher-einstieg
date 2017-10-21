@@ -2,7 +2,7 @@
 
 |  | Windows | OSX | Linux |
 | :--- | :--- | :--- | :--- |
-| Anbieter | Microsoft | Apple | verschiedene Distributionen |
+| Anbieter | Microsoft | Apple | verschiedene Anbieter |
 | Einzel-Preis | ab 130€ \(\*\) | 21,99€ \(\*\) | ab 0€ |
 | Nutzungsrechte | stark eingeschränkt | stark eingeschränkt | 100% bis überwiegend offen |
 | Hardware-Anforderungen | recht hoch | recht hoch | niedrig bis hoch \(\*\) |
