@@ -4,7 +4,7 @@
 | :--- | :--- | :--- | :--- |
 | Anbieter | Microsoft | Apple | verschiedene Distributionen |
 | Einzel-Preis | ab 130€ \(\*\) |  | ab 0€ |
-| Nutzungsrechte | stark eingeschränkt | stark eingeschränkt | überwiegend offen |
+| Nutzungsrechte | stark eingeschränkt | stark eingeschränkt | 100% bis überwiegend offen |
 | Hardware-Anforderungen | recht hoch | recht hoch | niedrig bis hoch \(\*\) |
 | Anmerkungen | \(\*\) Windows 10 Home, Sonderpreis für Studenten und Lehrer |  | \(\*\) je nach gewählter Distribution |
 |  |  |  |  |
