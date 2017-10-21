@@ -6,4 +6,5 @@
   * [Was ist Linux?](kapitel1/was-ist-linux.md)
   * [Was unterscheidet Linux von Windows und OSX](kapitel1/was-unterscheidet-linux-von-windows-und-osx.md)
 * [Quellen](quellen.md)
+* [Anlagen](anlagen.md)
 
