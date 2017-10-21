@@ -1,4 +1,4 @@
-# 1. Linux - noch ein Betriebssystem!?
+# 1. Linux - Wozu \(noch\) ein Betriebssystem?
 
 In diesem Kapitel werden wir kurz erklären,
 
