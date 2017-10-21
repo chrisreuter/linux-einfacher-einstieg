@@ -1,11 +1,11 @@
 # Einführung
 
-1. Hast du bereits erste Erfahrung auf einem Windows- oder Apple-Computer gesammelt?
+1. Bist du Computer-Anfänger oder hast du bereits erste Erfahrung auf einem Windows- oder Apple-Computer gesammelt?
 2. Suchst du Alternativen zur Microsoft- oder Apple-Computer-Welt?
 3. Möchtest du neu und günstig in die Welt der Computer einsteigen?
-4. Oder einfach nur deinen Horizont um freie bzw. offene Software erweitern?
+4. Oder möchtest du einfach nur deinen Horizont um freie und offene Software erweitern?
 
-Beantwortest du mindestens drei der vier Fragen mit Ja, dann dürfte dich das vorliegende Buch interessieren.
+Bei mindestens 3 positiven Antworten dürfte dich dieses Buch interessieren.
 
 ## Warum "du"?
 
