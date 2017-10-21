@@ -5,6 +5,7 @@
 | Anbieter | Microsoft | Apple | verschiedene |
 | Preis |  |  |  |
 | Nutzungsrechte |  |  |  |
+| Hardware-Anforderungen |  |  |  |
 
 
 
