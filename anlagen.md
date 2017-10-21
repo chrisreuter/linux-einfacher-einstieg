@@ -2,7 +2,7 @@
 
 ## Mindest-Anforderungen laut Hersteller \(Stand 21.10.2017\)
 
-| Version | Windows 10 Home | macOS High Sierra | Linux Mint Mate  |
+| Version | Windows 10 Home | macOS High Sierra | Linux Mint Mate 18.2 |
 | :--- | :--- | :--- | :--- |
 | Prozessor | 1 GHz |  | 32 Bit PAE-fähig x86 |
 | Arbeitsspeicher \(32/64 Bit-Prozessor\) | 1 GB/2 GB | 2 GB | 512 MB |
