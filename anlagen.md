@@ -1,6 +1,6 @@
 # Anlagen
 
-## Mindest-Anforderungen laut Hersteller \(Stand 21.10.2017\)
+## Mindest-Anforderungen laut Hersteller
 
 | Version | Windows 10 Home | macOS High Sierra | Linux Mint Mate 18.2 |
 | :--- | :--- | :--- | :--- |
@@ -9,5 +9,5 @@
 | Festplattenspeicher | 20 GB | 14,3 GB | 9 GB |
 | Aktivierung erforderlich | ja | nein | nein |
 
-
+Stand 21.10.2017
 
