@@ -5,7 +5,7 @@
 | Version | Windows 10 Home |  |  |
 | :--- | :--- | :--- | :--- |
 | Prozessor | mind. 1 GHz |  |  |
-| Arbeitsspeicher | mind. 1 GB |  |  |
+| Arbeitsspeicher \(32/64 Bit-Prozessor\) | mind. 1 GB/2 GB |  |  |
 | Festplattenspeicher | mind. 20 GB |  |  |
 
 
