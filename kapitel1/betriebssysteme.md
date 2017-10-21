@@ -13,5 +13,5 @@ In der breiten Masse viel weniger bekannt ist das Betriebssystem Linux, auf das 
 
 ## Die Vorauswahl des Betriebssystems - eine wichtige Vorentscheidung
 
-Beim Kauf eines Computers ist in der Regel schon ein Betriebssystem vorinstalliert. Viele Computer erlauben die Installation mehrerer Betriebsysteme, der Käufer könnte also theoretisch zwischen mehreren Betriebssystemen auswählen. In der Praxis wird diese Wahlmöglichkeit aber von Händlern und den großen Herstellern Microsoft und Apple erschwert, um den Verkauf eigener Produkte zu fördern. So darf z.B. das Betriebssysteme von Apple nur auf Apple-Rechnern installiert werden.
+Beim Kauf eines Computers ist in der Regel schon ein Betriebssystem vorinstalliert. Viele Computer erlauben die Installation mehrerer Betriebsysteme, der Käufer könnte also theoretisch zwischen mehreren Betriebssystemen auswählen. In der Praxis wird diese Wahlmöglichkeit aber von Händlern und den großen Herstellern Microsoft und Apple erschwert, um den Verkauf eigener Produkte zu fördern. So darf z.B. das Betriebssystem von Apple nur auf Apple-Rechnern installiert werden.
 
